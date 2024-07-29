@@ -1,4 +1,4 @@
-- 👋 Hola, soy TarzShell (@Leonardo1214-bot)
+- 👋 Hola, soy TarzShell (@TarzShell)
 - 👀 Estoy interesado en desarrollo software
 - 🌱 Estoy aprendiendo python
 - 💞️ Estoy pensando colaborar con amigos cercanos.
